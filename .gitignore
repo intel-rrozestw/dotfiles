@@ -53,3 +53,5 @@ version.h
 *.a
 *.xz
 
+target/
+Cargo.lock
